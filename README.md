@@ -1,4 +1,4 @@
-# Hello, I'm Wajahat Bashir 👋  [![Linkedin: wajahat-bashir](https://img.shields.io/badge/-wajahat-bashir?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wajahat-bashir/)](https://www.linkedin.com/in/wajahat-bashir/) [![GitHub wajahatbashir](https://img.shields.io/github/followers/wajahatbashir?label=follow&style=social)](https://github.com/wajahatbashir)
+# Hello, I'm Wajahat Bashir 👋  [![Linkedin: wajahat-bashir](https://img.shields.io/badge/-wajahat-bashir?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wajahat-bashir/)](https://www.linkedin.com/in/wajahat-bashir/) [![GitHub wajahatbashir](https://img.shields.io/github/followers/wajahatbashir?label=follow&style=social)](https://github.com/wajahatbashir) [![Instagram: wajahatbashir](https://img.shields.io/badge/-engrwb?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/engrwb/)](https://www.instagram.com/engrwb/)
 
 **Senior Magento Developer and Full Stack Developer with 10 years of experience**
 
@@ -32,5 +32,6 @@
 - [ARMAF](https://armaf.com.pk/)
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/wajahatbashir)
-- [Facebook](https://www.facebook.com/engrwb)
+[![Linkedin: wajahat-bashir](https://img.shields.io/badge/-wajahat--bashir?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wajahat-bashir/)](https://www.linkedin.com/in/wajahat-bashir/)
+[![GitHub wajahatbashir](https://img.shields.io/github/followers/wajahatbashir?label=follow&style=social)](https://github.com/wajahatbashir)
+[![Instagram: wajahatbashir](https://img.shields.io/badge/-engrwb?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/engrwb/)](https://www.instagram.com/engrwb/)
